@@ -19,7 +19,6 @@ scoop install fzf
 scoop install glow
 scoop install chezmoi
 scoop install git-aliases
-
 chezmoi init git@github.com:TheUniqu3/configs.git
 chezmoi apply
 ```
