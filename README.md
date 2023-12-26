@@ -3,7 +3,7 @@
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 Invoke-RestMethod -Uri https://get.scoop.sh/ | Invoke-Expression
 ```
-(to allow PowerShell to execute scripts)
+(to allow PowerShell to execute scripts)  
 2. Paste scripts bellow
 ```
 iwr -useb get.scoop.sh | iex
