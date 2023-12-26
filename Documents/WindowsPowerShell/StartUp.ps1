@@ -1,3 +1,4 @@
+# Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 iwr -useb get.scoop.sh | iex
 scoop bucket add extras
 scoop install wezterm

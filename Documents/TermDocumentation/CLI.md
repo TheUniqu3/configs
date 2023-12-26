@@ -9,7 +9,8 @@
 `eza <dirPath>: list files in <dirPath>`  
 ## zoxide
 `z <name>: cd to most used dir with <name>`  
-`zi <name>: cd to selected dirs with <name>`  
+`zi <name>: cd to selected dirs with <name>` 
+`alt + s: opens fuzzy finds of workflows` 
 ## lazygit
 `lazygit: open lazygit in current dir`  
 ## chezmoi
