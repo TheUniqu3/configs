@@ -12,7 +12,7 @@ scoop install starship
 scoop install zoxide
 scoop install meld
 scoop install bat
-scoop install gum
+scoop install charm-gum
 scoop install lazygit
 scoop install eza 
 scoop install fzf
