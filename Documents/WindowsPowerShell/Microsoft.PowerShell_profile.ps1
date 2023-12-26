@@ -16,7 +16,7 @@ Set-PSReadlineOption -Color @{
 }
 
 Function openDoc(){
-$t=gum file C:\Users\grman\Documents\TermDocumentation
+$t=gum file $HOME\Documents\TermDocumentation
 glow $t
 }
 Function GB(){
