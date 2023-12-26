@@ -1,9 +1,9 @@
-1. Enter command  
+1. Enter command (from PowerShell Admin)  
 ```
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
 (to allow PowerShell to execute scripts)  
-2. Paste scripts bellow
+2. Paste scripts bellow (from PowerShell normal)  
 ```
 iwr -useb get.scoop.sh | iex
 scoop bucket add extras
